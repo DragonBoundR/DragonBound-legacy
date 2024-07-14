@@ -1,2 +1,0 @@
-[ NORMAL ]: MYSQL Connect!
-[ NORMAL ]: Listening on LOCAL 3000

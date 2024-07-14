@@ -4,7 +4,7 @@
   "description": "\"# DragonBound\"",
   "main": "index.js",
   "scripts": {
-    "start:web": "nodemon src/web"
+    "web": "nodemon src/web"
   },
   "keywords": [],
   "author": "",

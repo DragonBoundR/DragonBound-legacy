@@ -6,7 +6,7 @@ module.exports = class DataBase {
     constructor() {
         var self = this;
         this.connection = null;
-        this.host = 'localhost';
+        this.host = '192.168.100.10';
         this.user = 'root';
         this.password = 'root';
         this.database = 'game';
