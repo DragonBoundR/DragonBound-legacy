@@ -1,0 +1,10 @@
+pegas aqui tu certificado crt y la key .key
+
+ponle esos nombres
+Ojo> son extensiones distintas .crt y key
+
+en tus archivos es el de winrar ssl otros(el de apache no)
+
+base64decode.org
+
+Buscar setTimeout(atob(

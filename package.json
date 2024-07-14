@@ -1,0 +1,30 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "\"# DragonBound\"",
+  "main": "index.js",
+  "scripts": {
+    "start:web": "nodemon src/web"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "csurf": "^1.11.0",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.3",
+    "express-mysql-session": "^3.0.3",
+    "express-session": "^1.18.0",
+    "fbgraph": "^1.4.4",
+    "geoip-lite": "^1.4.10",
+    "helmet": "^7.1.0",
+    "ignore-case": "^0.1.0",
+    "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.2",
+    "promise": "^8.3.0",
+    "underscore": "^1.13.6",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
