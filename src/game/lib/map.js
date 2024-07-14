@@ -1,6 +1,4 @@
-var _ = require("underscore");
 var cls = require("./class");
-var Types = require("../gametypes");
 var Logger = require('./logger');
 var fs = require('fs'),
     PNG = require('pngjs').PNG;

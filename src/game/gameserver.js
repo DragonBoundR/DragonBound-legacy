@@ -1,5 +1,4 @@
 var Types = require('./gametypes');
-var Account = require('./account');
 var Logger = require('./lib/logger');
 var Avatars = require('./avatars');
 var WebSocket = require('ws');

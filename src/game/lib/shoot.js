@@ -1,9 +1,3 @@
-var _ = require("underscore");
-var cls = require("./class");
-var Types = require("../gametypes");
-var Logger = require('./logger');
-var Message = require("./message");
-var Map = require("./map");
 var Box = require('./box');
 var Vector = require('./vect');
 

@@ -1,12 +1,10 @@
 var Types = require('./gametypes');
-var Logger = require('./lib/logger');
 var Message = require('./lib/message');
 var World = require('./world');
 var Shoot = require('./lib/shoot');
 var events = require('events');
 var thorControl = require('./lib/thorControl');
 var weatherControl = require('./lib/weatherControl');
-const { forEach } = require('underscore');
 
 // Game
 module.exports = class Game {

@@ -3,14 +3,12 @@ var Logger = require('./lib/logger');
 var Message = require('./lib/message');
 var Player = require('./player');
 var Bot = require('./bot');
-var Game = require('./game');
 var Room = require('./room');
 var ignoreCase = require('ignore-case');
 var mysql = require('mysql');
 var Commands = require('./commands');
 var WebSocket = require('ws');
 var fs = require('fs');
-var db = require('./data');
 
 function getRndInteger(min, max) {
 	return Math.floor(Math.random() * (max - min + 1) ) + min;

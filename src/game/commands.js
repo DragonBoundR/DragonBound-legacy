@@ -1,5 +1,4 @@
 var Types = require('./gametypes');
-var _ = require('underscore');
 var Message = require('./lib/message');
 var Logger = require('./lib/logger');
 var db = require('./data');

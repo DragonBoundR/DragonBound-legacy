@@ -1,9 +1,6 @@
 var Types = require('./gametypes');
 var Logger = require('./lib/logger');
 var Message = require('./lib/message');
-var Player = require('./player');
-var Room = require('./room');
-
 // Bot
 module.exports = class Bot {
     constructor(player) {
